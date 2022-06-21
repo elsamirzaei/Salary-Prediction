@@ -1,5 +1,5 @@
 # Salary-Prediction
-Applying Regression and Regression Tree Analysis to Predict Salary
+Applying Linear Regression and Regression Tree Analysis to Predict Salary
 
 This project uses the "Glassdoor Analyze Gender Paygap" dataset available at the following link: https://www.kaggle.com/datasets/nilimajauhari/glassdoor-analyze-gender-pay-gap?resource=download
 
